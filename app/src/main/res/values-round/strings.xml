@@ -1,5 +1,5 @@
 <resources>
-    <string name="saludo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-        maximus enim nunc, at pulvinar metus posuere sed. Aliquam fermentum felis non metus
-        condimentum volutpat. Donec sit amet</string>
+    <string name="saludo">Nam accumsan lorem sit amet ante dapibus pharetra. Donec aliquam turpis
+        at lacinia elementum. Cras ut semper magna. Morbi in ultricies massa. Fusce quis elementum
+        arcu.</string>
 </resources>
